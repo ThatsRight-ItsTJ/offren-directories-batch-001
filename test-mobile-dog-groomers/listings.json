@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Paws & Play Mobile Grooming",
+    "phone": "(555) 123-4567",
+    "email": "info@pawsandplay.com",
+    "website": "https://pawsandplay.com",
+    "address": "Mobile service in Austin, TX",
+    "services": [
+      "Dog grooming",
+      "Cat grooming",
+      "Mobile service"
+    ],
+    "rating": 4.8,
+    "reviews": 127
+  },
+  {
+    "name": "Wag N Wash Mobile Spa",
+    "phone": "(555) 987-6543",
+    "email": "contact@wagnwash.com",
+    "website": "https://wagnwash.com",
+    "address": "Mobile service in Dallas, TX",
+    "services": [
+      "Full grooming",
+      "Nail trimming",
+      "Teeth cleaning"
+    ],
+    "rating": 4.9,
+    "reviews": 89
+  },
+  {
+    "name": "Furry Friends Mobile Groomers",
+    "phone": "(555) 456-7890",
+    "email": "hello@furryfriends.com",
+    "website": "https://furryfriends.com",
+    "address": "Mobile service in Houston, TX",
+    "services": [
+      "Dog grooming",
+      "Pet sitting",
+      "Emergency grooming"
+    ],
+    "rating": 4.7,
+    "reviews": 156
+  }
+]
